@@ -1,5 +1,4 @@
 # Open-Source-Web-Map-with-QGIS
-# Open-Source Web Map with QGIS
 
 ## Overview
 This project features an open-source web map created for a workshop in December 2023. The map's focus is on showcasing sunset times and population data for the 990 largest cities in the contiguous 48 states of the United States.
@@ -25,9 +24,6 @@ The data used in this project is sourced from [insert data sources]. The dataset
    ```bash
    git clone https://github.com/yourusername/Open-Source-Web-Map-with-QGIS.git
 
-
-
-## Data
 
 
 
